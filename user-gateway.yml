@@ -6,7 +6,7 @@ zuul:
     api-gateway: /gateway/**
 
 server:
-  port: 8090
+  port: 8080
   compression:
     enabled: true
     mime-types: application/json,text/css,application/javascript
