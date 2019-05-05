@@ -7,7 +7,6 @@ eureka:
 ---
 server:
   port: 8083
----
 spring:
   profiles: docker
   zipkin:
